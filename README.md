@@ -1,4 +1,4 @@
-# Contest Mania
+# Contest HUB
 
 A Web-portal for keep track of your competitive programming on various platforms. Project is live at https://main--contest-hub-khushal.netlify.app/
 
