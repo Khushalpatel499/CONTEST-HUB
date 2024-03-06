@@ -1,6 +1,6 @@
 # Contest Mania
 
-A Web-portal for keep track of your competitive programming on various platforms. Project is live at [https://contestmania.web.app](https://contestmania.web.app).
+A Web-portal for keep track of your competitive programming on various platforms. Project is live at https://main--contest-hub-khushal.netlify.app/
 
 ## Features Live
 
